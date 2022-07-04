@@ -26,7 +26,7 @@ func main() {
 	if err != nil {
 		panic(err)
 	}
-	f, err := os.Create() // create a new file for the output file
+	f, err := os.Create("page.html") // create a new file for the output file
 	if err != nil {
 		panic(err)
 	}
