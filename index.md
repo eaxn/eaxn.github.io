@@ -1,4 +1,4 @@
-<title>jannp.de</title>
+<title>jann.dev</title>
 
 <script>
     alert("Hello World")
