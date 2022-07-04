@@ -4,7 +4,7 @@
 
 ### Go
 
-    ```go
+````go
     package main
 
     import (
@@ -34,5 +34,4 @@
             panic(err)
         }
     }
-    ```
-### Java
+```
